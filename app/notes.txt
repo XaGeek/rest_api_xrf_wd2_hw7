@@ -1,0 +1,18 @@
+npm install apidoc -g
+
+npm install grunt-apidoc --save-dev
+
+create apidoc.json
+(show screenshot of config)
+
+create Gruntfile.js
+(show screenshot of config)
+
+write apidoc code in the index.js file
+
+run apidoc to generate the documentation
+apidoc -i ../app -o apidoc
+
+you can now find your file in the folder apidoc pre created according to direction
+now we just need to fill in the code
+
